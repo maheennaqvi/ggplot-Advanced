@@ -84,6 +84,8 @@ top_customers_tbl %>%
         plot.title = element_text(face = "bold"),
         plot.caption = element_text(face = "bold.italic")
     )
+    
+     ![Advanced-ggplts-](https://user-images.githubusercontent.com/81388494/113446507-e41edb80-93c5-11eb-8ac5-a430c4d42bbc.png)
 
 # 2.0 Heatmaps ----
 # - Great for showing details in 3 dimensions
